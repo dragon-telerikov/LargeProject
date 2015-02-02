@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.TestLargeFiles",
   "DisplayName": "TestLargeFiles",
   "Author": "",
-  "Description": "",
+  "Description": "TestLargeFiles",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
